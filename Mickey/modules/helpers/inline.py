@@ -94,8 +94,8 @@ CHATBOT_BACK = [
 
 HELP_START = [
     [
-        InlineKeyboardButton(text="❮ 💥 ʜᴇʟᴘ 💥 ❯, callback_data="HELP"),
-        InlineKeyboardButton(text="❮ 💥 ᴄʟᴏsᴇ 💥 ❯, callback_data="CLOSE"),
+        InlineKeyboardButton(text="❮ 💥 ʜᴇʟᴘ 💥 ❯", callback_data="HELP"),
+        InlineKeyboardButton(text="❮ 💥 ᴄʟᴏsᴇ 💥 ❯", callback_data="CLOSE"),
     ],
 ]
 
