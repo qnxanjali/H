@@ -9,13 +9,13 @@ API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", 6919772024))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "TG_NAME_STYLE")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "TKS_JOIN")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "chin_tabak_dum_dum")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "ANJALIWORLD")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "ANJALINETWORK")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "AnjaliOwnerBot")
 
 # Random Start Images
 IMG = [
-    "https://telegra.ph/file/870bbc6b040bf757b849c.png",
+    "https://envs.sh/qii.jpg",
 ]
 
 
